@@ -8,7 +8,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-![tool](https://img.shields.io/badge/tool-MIT-green?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.2.0-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/roman-wright-ops1989e9/phantomware?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/roman-wright-ops1989e9/phantomware?style=flat-square)
+![tool](https://img.shields.io/badge/tool-MIT-green?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.2.1-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/roman-wright-ops1989e9/phantomware?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/roman-wright-ops1989e9/phantomware?style=flat-square)
 
 Battlefield — A Rails 8 API employing the Stegy Pattern to determine the best combat attack positions from radar data, featuring chainable attack modes
 
